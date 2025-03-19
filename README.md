@@ -68,6 +68,7 @@ Bear in mind that the procedure is quite time- and memory-consuming.
 
 ## Download .PTH files
 ```
-face_segmentation.pth: https://mega.nz/file/R5RyUa6R#UIZ_DlR388Tu0aLK_LuBAf5JW5xRwzhTq1fsUWk3Rhc
-wav2lip_gan.pth: https://mega.nz/file/1041nJ4D#y3dzDxxAJ7JjEMhLJApk082COyUQOCkij_w4mKrYt8g
+    face_segmentation.pth: https://mega.nz/file/R5RyUa6R#UIZ_DlR388Tu0aLK_LuBAf5JW5xRwzhTq1fsUWk3Rhc
+    wav2lip_gan.pth: https://mega.nz/file/1041nJ4D#y3dzDxxAJ7JjEMhLJApk082COyUQOCkij_w4mKrYt8g
+    esrgan_max.pth: https://mega.nz/file/loZlEL4Z#-RbszunmefjCd3ta-G_ZJtcOkT9X-SML5oaSFnSw8ZU
 ```
