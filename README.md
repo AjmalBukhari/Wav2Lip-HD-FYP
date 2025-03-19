@@ -65,3 +65,8 @@ Although we provide a checkpoint of pre-trained ESRGAN, it's training dataset wa
 To simplify finetuning the model, we provide a [colab notebook](https://colab.research.google.com/drive/1IUGYn-fMRbjH2IyYoAn5VKSzEkaXyP2s?usp=sharing). You can also run the commands listed there on your machine: namely, you have to download the models, run inference with saving all the frames on-the-fly, resize them and train ESRGAN.
 
 Bear in mind that the procedure is quite time- and memory-consuming.
+
+## Download .PTH files
+
+face_segmentation.pth: https://mega.nz/file/R5RyUa6R#UIZ_DlR388Tu0aLK_LuBAf5JW5xRwzhTq1fsUWk3Rhc
+wav2lip_gan.pth: https://mega.nz/file/1041nJ4D#y3dzDxxAJ7JjEMhLJApk082COyUQOCkij_w4mKrYt8g
