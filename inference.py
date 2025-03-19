@@ -177,8 +177,8 @@ def datagen(mels):
 	if len(img_batch) > 0:
 		img_batch, mel_batch = np.asarray(img_batch), np.asarray(mel_batch)
 
-		# img_masked = img_batch.copy()
-		# img_masked[:, args.img_size//2:] = 0
+		img_masked = img_batch.copy()
+		img_masked[:, args.img_size//2:] = 0
 
 		img_batch = np.concatenate((img_masked, img_batch), axis=3) / 255.
 		mel_batch = np.reshape(mel_batch, [len(mel_batch), mel_batch.shape[1], mel_batch.shape[2], 1])
