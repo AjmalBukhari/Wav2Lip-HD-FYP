@@ -52,7 +52,7 @@ The simpliest way is to use our [Google Colab demo](https://colab.research.googl
     !python inference.py \
         --checkpoint_path "checkpoints/wav2lip_gan.pth" \
         --segmentation_path "checkpoints/face_segmentation.pth" \
-        --sr_path "checkpoints/esrgan_yunying.pth" \
+        --sr_path "checkpoints/esrgan_max.pth" \
         --face <path to source video> \
         --audio <path to source audio> \
         --outfile <desired path to output>
